@@ -21,4 +21,13 @@ Use this style file combined with the shapefiles found here:
 
 http://www.nws.noaa.gov/geodata/catalog/wsom/html/marinezones.htm
 
-to display various marine zones under NWS forecast responsibility (coastal marine zones is what I've tested with).
+to display various marine zones under NWS forecast responsibility (tested and works with all coastal and Great Lakes marine zones).
+
+Counties Style File (style-files/Counties.sty)
+----------------------------------------------
+
+Use this style file combined with the shapefile found here:
+
+http://www.nws.noaa.gov/geodata/catalog/county/html/county.htm
+
+to display counties as loaded into AWIPS.
